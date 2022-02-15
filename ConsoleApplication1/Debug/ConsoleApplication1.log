@@ -1,0 +1,292 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  how.cpp
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\how.cpp(15,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\how.cpp(15,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\how.cpp(11,13): warning C4996: 'sf::Text::setColor': was declared deprecated
+  how_to_paly.cpp
+c1xx : fatal error C1083: Cannot open source file: 'how_to_paly.cpp': No such file or directory
+  main.cpp
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(317,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(327,38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(705,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(742,96): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(742,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(815,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(847,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(847,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(871,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(871,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(888,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(888,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(909,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(909,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(928,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(928,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(954,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(954,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1041,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1078,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1078,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1107,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1107,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1135,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1135,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1163,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1163,48): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1197,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1197,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1293,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(1393,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(394,11): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(398,11): warning C4996: 'sf::Text::setColor': was declared deprecated
+  menu.cpp
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(22,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(29,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(36,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(9,14): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(18,14): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(25,14): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(32,14): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(57,31): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(59,31): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(64,31): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\menu.cpp(66,31): warning C4996: 'sf::Text::setColor': was declared deprecated
+  options.cpp
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(16,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(23,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(30,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(37,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(12,17): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(19,17): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(28,17): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(33,17): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(55,33): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(57,33): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(62,33): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\options.cpp(64,33): warning C4996: 'sf::Text::setColor': was declared deprecated
+  play.cpp
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\play.cpp(15,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\play.cpp(22,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\play.cpp(29,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\play.cpp(11,14): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\play.cpp(18,14): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\play.cpp(25,14): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\play.cpp(49,20): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\play.cpp(51,20): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\play.cpp(56,20): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\play.cpp(58,20): warning C4996: 'sf::Text::setColor': was declared deprecated
+  single.cpp
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(14,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(21,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(28,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(35,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(10,16): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(17,16): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(24,16): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(31,16): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(55,33): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(57,33): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(62,33): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\single.cpp(64,33): warning C4996: 'sf::Text::setColor': was declared deprecated
+  Source.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Source.cpp': No such file or directory
+  tie.cpp
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\tie.cpp(10,13): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\tie.cpp(17,13): warning C4996: 'sf::Text::setColor': was declared deprecated
+  wining.cpp
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\wining.cpp(12,17): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\wining.cpp(19,17): warning C4996: 'sf::Text::setColor': was declared deprecated
+  winner2.cpp
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\winner2.cpp(11,17): warning C4996: 'sf::Text::setColor': was declared deprecated
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\winner2.cpp(18,17): warning C4996: 'sf::Text::setColor': was declared deprecated
+  Generating Code...
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(232): warning C4715: 'ld': not all control paths return a value
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(206): warning C4715: 'rd': not all control paths return a value
